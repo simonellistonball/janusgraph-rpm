@@ -1,0 +1,7 @@
+SOURCES/
+SRPMS/
+RPMS/
+BUILD/
+BUILDROOT/
+releases/*.zip
+target/
