@@ -5,3 +5,5 @@ BUILD/
 BUILDROOT/
 releases/*.zip
 target/
+.project
+.settings
